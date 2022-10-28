@@ -1,5 +1,12 @@
 # victory-shared-events
 
+## 36.6.9
+
+### Patch Changes
+
+- Updated dependencies [[`f98f4b597`](https://github.com/FormidableLabs/victory/commit/f98f4b59724e7ed8806465463d39fc119d0b897c), [`11906c4dc`](https://github.com/FormidableLabs/victory/commit/11906c4dcc3cb4878256b0b461efbbfcabed074d)]:
+  - victory-core@36.6.9
+
 ## 36.6.8
 
 ### Patch Changes

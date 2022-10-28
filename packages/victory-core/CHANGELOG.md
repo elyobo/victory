@@ -1,5 +1,16 @@
 # victory-core
 
+## 36.6.9
+
+### Patch Changes
+
+- Lint fixes. ([#2497](https://github.com/FormidableLabs/victory/pull/2497))
+
+* Improve accuracy of text size measurements (fixes [#2475](https://github.com/FormidableLabs/victory/issues/2475)) ([#2505](https://github.com/FormidableLabs/victory/pull/2505))
+
+* Updated dependencies []:
+  - victory-vendor@36.6.9
+
 ## 36.6.8
 
 ### Patch Changes
